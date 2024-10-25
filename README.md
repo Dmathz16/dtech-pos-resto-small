@@ -1,1 +1,1 @@
-# dtech-pos-resto-small
+# DTech POS Restaurant (Small Business - one store only)
